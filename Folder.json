@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "Folder",
+      "name": "Redstone",
+      "content": [
+        {
+          "type": "Document",
+          "name": "Sucht.txt"
+        },
+        {
+          "type": "folder",
+          "name": "LOL",
+          "content": []
+        }
+      ]
+    },
+    {
+      "type": "Document",
+      "name": "ILOVEYOU.exe"
+    }
+  ]
+}
